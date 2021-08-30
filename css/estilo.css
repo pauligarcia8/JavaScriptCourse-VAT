@@ -1,0 +1,25 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+}
+
+
+#numI, #resultado {
+	margin-top: 10px;
+	width: 45px;
+	height: 24px;
+	font-size: 20px;
+	font-weight: bold;
+	border: #ffbd33 solid 2px;
+	border-radius: 9px;
+	text-align: center;
+}
+
